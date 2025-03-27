@@ -6,5 +6,8 @@ def NShape():
             else:
                 print(" ", end=" ")
         print()
+        
+        
+        # hjjghgh
 
 NShape()
